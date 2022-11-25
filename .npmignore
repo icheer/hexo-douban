@@ -4,3 +4,4 @@ coverage/
 *.log
 .jshintrc
 .travis.yml
+package-lock.json
