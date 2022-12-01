@@ -9,7 +9,7 @@
     "test-cov": "istanbul cover --print both _mocha -- test/index.js"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.0.0-rc.3",
     "ejs": "2.5.6",
     "hexo-fs": "^0.2.2",
     "hexo-i18n": "^0.2.1",
